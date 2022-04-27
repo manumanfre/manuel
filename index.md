@@ -14,9 +14,10 @@ Il processo di stampa 3D inizia sempre da un modello 3D digitale, ottenuto di so
 I materiali disponibili variano anche in base al processo. 
 Le materie plastiche sono di gran lunga le più comuni, ma possono essere stampati in 3D anche i metalli. Le parti prodotte possono anche avere una vasta gamma di proprietà fisiche specifiche, che vanno da oggetti otticamente trasparenti a quelli simili alla gomma.
 
-A seconda delle dimensioni della parte e del tipo di stampante, per completare una stampa sono in genere necessarie molte ore e spesso, le parti stampate in 3D richiedono un po’ di post-produzione per raggiungere il livello desiderato di finitura superficiale. Questi passaggi richiedono ulteriore tempo e sforzi (solitamente manuali).
-
+A seconda delle dimensioni della parte e del tipo di stampante, per completare una stampa sono in genere necessarie molte ore e spesso, le parti stampate in 3D richiedono un po’ di post-produzione per raggiungere il livello desiderato di finitura superficiale. Questi passaggi richiedono ulteriore tempo e sforzi (solitamente in
 Ogni processo di stampa 3D è compatibile con materiali diversi. Le materie plastiche sia termoplastiche che termoindurenti) sono di gran lunga le più utilizzate.
+![image](https://user-images.githubusercontent.com/101713088/165493201-08eee35d-98ef-4794-a127-62fb19c56984.png)
+
 
 La plastica per le stampanti 3D è un materiale leggero con una vasta gamma di proprietà fisiche, adatto sia per scopi di prototipazione che per alcune applicazioni funzionali.
 
