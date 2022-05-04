@@ -36,3 +36,7 @@ Le materie plastiche sono o termoplastiche (con FDM o SLS), che sono generalment
 
 ![image](https://user-images.githubusercontent.com/101713088/165493355-11e00ec4-8baf-4750-beea-f1b58f8f3fb2.png)
 
+(VANTAGGI E SVANTAGGI)
+Si ha un vantaggio sulla qualitàe sulla velocità alla quale i pezzi possono essere prodotti rispetto agli strumenti tradizionali.
+Il vantaggio vero e proprio è la verifica sulla fattibilità di un progetto,senza alcun limite alla creatività
+Si può avere uno svantaggio a livello di rapporto qualitaà prezzo con la stampante può arrivare fino a 800euro a seconda del modello e un altro svantaggio potrebbe essere che non permetta un controllo qualità preciso,piò accadere che durante un processo di stampa,uno strato non venga correttamente stampato rispetto ad un altro,dunque consiglio di fare una prova senza impegno per poi stampare il tuo prodotto 3D.
